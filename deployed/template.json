@@ -8,9 +8,6 @@
         "extensions_newuserscript_storageAccountKey": {
             "type": "SecureString"
         },
-        "extensions_newuserscript_commandToExecute": {
-            "type": "SecureString"
-        },
         "virtualNetworks_MyVNET_name": {
             "defaultValue": "MyVNET",
             "type": "String"
@@ -182,7 +179,6 @@
                 "protectedSettings": {
                     "storageAccountName": "[parameters('extensions_newuserscript_storageAccountName')]",
                     "storageAccountKey": "[parameters('extensions_newuserscript_storageAccountKey')]",
-                    "commandToExecute": "[parameters('extensions_newuserscript_commandToExecute')]"
                 }
             }
         },

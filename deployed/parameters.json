@@ -3,28 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "extensions_newuserscript_storageAccountName": {
-            "value": null
+            "value": "accstotesteiac"
         },
         "extensions_newuserscript_storageAccountKey": {
-            "value": null
-        },
-        "extensions_newuserscript_commandToExecute": {
-            "value": null
+            "value": "QSg5fNIxGGWWUgwYgZCtUyVvMs14graF86bJcn2SvZa+5z1J0bFaP2bzkBrp6av0ThzovxfGJPRD1X7Hz0y4IA=="
         },
         "virtualNetworks_MyVNET_name": {
-            "value": null
+            "value": "MyVNET"
         },
         "networkInterfaces_myVMNic_name": {
-            "value": null
+            "value": "myVMNic"
         },
         "virtualMachines_MyUbuntuVM_name": {
-            "value": null
+            "value": "MyUbuntuVM"
         },
         "publicIPAddresses_myPublicIP_name": {
-            "value": null
+            "value": "myPublicIP"
         },
         "storageAccounts_accstotesteiac_name": {
-            "value": null
+            "value": "accstotesteiac"
         }
     }
 }
