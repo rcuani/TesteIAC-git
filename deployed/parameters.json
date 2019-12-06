@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_newuserscript_storageAccountName": {
+            "value": null
+        },
+        "extensions_newuserscript_storageAccountKey": {
+            "value": null
+        },
+        "extensions_newuserscript_commandToExecute": {
+            "value": null
+        },
+        "virtualNetworks_MyVNET_name": {
+            "value": null
+        },
+        "networkInterfaces_myVMNic_name": {
+            "value": null
+        },
+        "virtualMachines_MyUbuntuVM_name": {
+            "value": null
+        },
+        "publicIPAddresses_myPublicIP_name": {
+            "value": null
+        },
+        "storageAccounts_accstotesteiac_name": {
+            "value": null
+        }
+    }
+}
