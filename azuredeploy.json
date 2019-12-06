@@ -44,6 +44,13 @@
       "metadata": {
         "description": "Location for all resources."
       }
+    },
+    "parameterNaoUsado": {
+      "type": "string",
+      "defaultValue": "nao usado em lugar nenhum - teste",
+      "metadata": {
+        "description": "Parametro de teste nao usado em lugar nenhum."
+      }
     }
   },
   "variables": {
